@@ -1,4 +1,4 @@
-# web3j Sample Project
+# web3j Sample Project by me hari ;-)
 
 This project provides a very simple starter application for working with web3j and the test 
 Ethereum network (testnet) known as Rinkeby.
